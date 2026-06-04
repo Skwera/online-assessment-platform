@@ -267,7 +267,7 @@ Awarded by the **Head of Department (Carol Coetzee)** for innovative system desi
 
 ---
 
-*Built during Software Engineer internship at KZN Provincial Treasury | 2024–2025*
+*Built during Software Engineer internship at KZN Provincial Treasury | 2025*
 
 
 
