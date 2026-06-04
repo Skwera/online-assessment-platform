@@ -268,9 +268,8 @@ Awarded by the **Head of Department (Carol Coetzee)** for innovative system desi
 ---
 
 *Built during Software Engineer internship at KZN Provincial Treasury | 2024–2025*
-"""
 
-with open('/mnt/agents/output/online-assessment-platform-README.md', 'w', encoding='utf-8') as f:
-    f.write(readme)
+
+
 
 
