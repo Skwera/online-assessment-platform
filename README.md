@@ -1,5 +1,5 @@
 
-readme = """# Online Assessment Management System
+"""# Online Assessment Management System
 
 ## Multi-Tenant Enterprise Assessment Platform
 
