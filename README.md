@@ -273,4 +273,4 @@ Awarded by the **Head of Department (Carol Coetzee)** for innovative system desi
 with open('/mnt/agents/output/online-assessment-platform-README.md', 'w', encoding='utf-8') as f:
     f.write(readme)
 
-print(f"README saved: {len(readme)} characters")
+
